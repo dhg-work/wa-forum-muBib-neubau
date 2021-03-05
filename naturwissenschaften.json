@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"forum.json"
+                 "value":"forum.json#start3-naWi"
                 }],
          "type":"tilelayer",
          "visible":true,
