@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"neubau.json#start-altbau"
+                 "value":"neubau.json#start1-altbau"
                 }],
          "type":"tilelayer",
          "visible":true,
