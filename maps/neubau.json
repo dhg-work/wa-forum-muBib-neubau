@@ -199,7 +199,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"Tilesets\/ModernStudyTime\/Walls.png",
+         "image":"..\/data\/default\/modern_study_time\/Walls.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -2373,7 +2373,7 @@
         {
          "columns":8,
          "firstgid":241,
-         "image":"Tilesets\/ModernStudyTime\/Tile A5.png",
+         "image":"..\/data\/default\/modern_study_time\/Tile A5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -2386,7 +2386,7 @@
         {
          "columns":16,
          "firstgid":369,
-         "image":"Tilesets\/ModernStudyTime\/Tile 4.png",
+         "image":"..\/data\/default\/modern_study_time\/Tile 4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2399,7 +2399,7 @@
         {
          "columns":16,
          "firstgid":625,
-         "image":"Tilesets\/ModernStudyTime\/Tile 3.png",
+         "image":"..\/data\/default\/modern_study_time\/Tile 3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2412,7 +2412,7 @@
         {
          "columns":16,
          "firstgid":881,
-         "image":"Tilesets\/ModernStudyTime\/Tile 2.png",
+         "image":"..\/data\/default\/modern_study_time\/Tile 2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2534,7 +2534,7 @@
         {
          "columns":16,
          "firstgid":1137,
-         "image":"Tilesets\/ModernStudyTime\/Tile 1.png",
+         "image":"..\/data\/default\/modern_study_time\/Tile 1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3016,7 +3016,7 @@
         {
          "columns":12,
          "firstgid":1393,
-         "image":"Tilesets\/ModernStudyTime\/doors_school.png",
+         "image":"..\/data\/default\/modern_study_time\/doors_school.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -3029,7 +3029,7 @@
         {
          "columns":4,
          "firstgid":1585,
-         "image":"Tilesets\/Flags.png",
+         "image":"..\/data\/default\/Flags.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -3043,7 +3043,7 @@
         {
          "columns":9,
          "firstgid":1589,
-         "image":"Tilesets\/mapUtilities.png",
+         "image":"..\/data\/default\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -3056,7 +3056,7 @@
         {
          "columns":9,
          "firstgid":1598,
-         "image":"Tilesets\/hohes Regal.png",
+         "image":"..\/data\/default\/hohes Regal.png",
          "imageheight":128,
          "imagewidth":288,
          "margin":0,
@@ -3160,7 +3160,7 @@
         {
          "columns":16,
          "firstgid":1634,
-         "image":"Tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"..\/data\/default\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3228,7 +3228,7 @@
         {
          "columns":12,
          "firstgid":1890,
-         "image":"Tilesets\/Schilder.png",
+         "image":"..\/data\/default\/Schilder.png",
          "imageheight":224,
          "imagewidth":400,
          "margin":0,
@@ -3241,7 +3241,7 @@
         {
          "columns":11,
          "firstgid":1974,
-         "image":"Tilesets\/Icons-fertig.png",
+         "image":"..\/data\/default\/Icons-fertig.png",
          "imageheight":320,
          "imagewidth":352,
          "margin":0,
