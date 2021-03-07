@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dhg-work.github.io\/vorstellungsabend\/Sonstiges\/videoplayer0.html"
+                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/anmeldung\/deutsch_manga.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dhg-work.github.io\/vorstellungsabend\/Sonstiges\/audioplayer0.html"
+                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/audio_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/dateien\/fachbereiche\/musik\/Klassenrap_der_7b_final.mp3|Der&nbsp;Klassenrap&nbsp;der&nbsp;7b"
                 }],
          "type":"tilelayer",
          "visible":true,

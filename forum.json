@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/videoplayer1.html"
+                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/PSeminar\/followmearound2.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,7 +319,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/videoplayer2.html"
+                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/anmeldung\/DHG%20Vorstellung%20Clip%201%20854x480.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/videoplayer3.html"
+                 "value":"https:\/\/dhg-work.github.io\/vabend2\/Sonstiges\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/anmeldung\/DHG%20Vorstellung%20Clip%202%20854x480.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
