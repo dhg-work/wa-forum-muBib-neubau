@@ -393,6 +393,12 @@
          "id":29,
          "name":"event8-rob-01",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/mint\/01_Weg_zu_Naturwissenschaft%20.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,

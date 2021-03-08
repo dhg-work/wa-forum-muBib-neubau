@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/data\/html\/video_player.html#www.deutschhaus.de\/fileadmin\/videos\/musik\/Bigband.mp4"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/musik\/Bigband.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/data\/html\/video_player.html#www.deutschhaus.de\/fileadmin\/videos\/musik\/Percussion.mp4"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/musik\/Percussion.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
