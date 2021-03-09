@@ -129,6 +129,12 @@
          "id":19,
          "name":"event2-360-musik",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/theta360.com\/s\/doern6moSeWebKaHohNLGL5Lk?view=embed"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":26,
