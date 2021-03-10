@@ -86,6 +86,8 @@
          "height":38,
          "id":18,
          "name":"portal-forum",
+         "offsetx":6,
+         "offsety":73,
          "opacity":1,
          "properties":[
                 {
@@ -2983,6 +2985,15 @@
                 }, 
                 {
                  "id":71,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":85,
                  "properties":[
                         {
                          "name":"collides",
