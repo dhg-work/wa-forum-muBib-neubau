@@ -248,7 +248,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/Workadventure\/Latein2.mp4"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/Workadventure\/Latein1.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
