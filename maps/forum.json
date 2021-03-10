@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"altbau.json"
+                 "value":"altbau.json#start\/Forum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -440,7 +440,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":31,
+ "nextlayerid":32,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
