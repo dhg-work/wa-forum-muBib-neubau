@@ -212,7 +212,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/cwr1ae6s1qE?autoplay=1&controls=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/cwr1ae6s1qE?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,7 +266,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/btF88EZDeuo?autoplay=1&controls=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/btF88EZDeuo?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
