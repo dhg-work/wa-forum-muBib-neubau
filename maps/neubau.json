@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"forum.json#start2-neubau"
+                 "value":"forum.json#start\/neubau"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"altbau.json#start2-neubau"
+                 "value":"altbau.json#start\/neubau"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -403,7 +403,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {
