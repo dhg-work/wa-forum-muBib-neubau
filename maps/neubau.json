@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"forum.json#start\/neubau"
+                 "value":"forum.json#start2-neubau"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"altbau.json#start\/neubau"
+                 "value":"altbau.json#start\/Neubau"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -230,7 +230,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/data\/html\/video_player.html#www.deutschhaus.de\/fileadmin\/videos\/sprachen\/franzoesischUnt.mp4"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/sprachen\/franzoesischUnt.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
