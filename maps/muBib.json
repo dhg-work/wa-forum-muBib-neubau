@@ -297,7 +297,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1h0_eZ68QmsP5kVJXSqKcnFuCsnHaS5g2\/view"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/drive.google.com\/uc?export=download&confirm=4oMT&id=1h0_eZ68QmsP5kVJXSqKcnFuCsnHaS5g2"
                 }],
          "type":"tilelayer",
          "visible":true,
