@@ -279,7 +279,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1h0_eZ68QmsP5kVJXSqKcnFuCsnHaS5g2\/view"
+                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/videos\/tutoren\/tutor_spiele.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -297,7 +297,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/data\/html\/video_player.html#https:\/\/www.deutschhaus.de\/fileadmin\/"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1h0_eZ68QmsP5kVJXSqKcnFuCsnHaS5g2\/view"
                 }],
          "type":"tilelayer",
          "visible":true,
